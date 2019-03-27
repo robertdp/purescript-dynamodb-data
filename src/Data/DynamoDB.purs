@@ -1,4 +1,4 @@
-module AWS.DynamoDB.Data
+module Data.DynamoDB
   ( class AttributeValue
   , class AttributeRecord
   , class AttributeValueRecord
