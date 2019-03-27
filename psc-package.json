@@ -1,0 +1,10 @@
+{
+  "name": "dynamodb-data",
+  "set": "local",
+  "source": "https://github.com/purescript/package-sets.git",
+  "depends": [
+    "foreign-generic",
+    "ordered-collections",
+    "prelude"
+  ]
+}
